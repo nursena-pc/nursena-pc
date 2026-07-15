@@ -29,19 +29,19 @@ testing, maintainable code and production-oriented software development.
 
 ## 🚀 Featured Projects
 
-### Fitto
+### [Fitto](https://github.com/nursena-pc/fitto-app-showcase)
 AI-powered healthy lifestyle and social Android application developed
 with Kotlin, Firebase, Room and GitHub Actions.
 
-### Nomi
+### [Nomi](https://github.com/nursena-pc/nomi-ai-gallery-app)
 Privacy-focused Android smart gallery that performs face detection,
 embedding generation and person clustering directly on the device.
 
-### PayFlow
+### [PayFlow](https://github.com/nursena-pc/payflow)
 Spring Boot financial system simulation featuring atomic transfers,
 idempotency, optimistic locking and double-entry ledger records.
 
-### Hotel Reservation Platform
+### [Hotel Reservation Platform](https://github.com/nursena-pc/hotel-chatbot-reservation-system)
 Spring Boot reservation and payment platform with JWT security,
 Stripe integration, caching and event-driven messaging.
 
