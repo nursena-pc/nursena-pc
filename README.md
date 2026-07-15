@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi, I'm Nursena 👋
 
-<!--
-**nursena-pc/nursena-pc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineering graduate focused on **Android development**
+and **Java backend engineering**.
 
-Here are some ideas to get you started:
+I build mobile applications with Kotlin and Flutter, and backend systems
+with Java and Spring Boot. I care about clean architecture, automated
+testing, maintainable code and production-oriented software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📱 Mobile Development
+
+- Kotlin and Android SDK
+- Jetpack Compose and XML
+- Flutter and Dart
+- Firebase and Room
+- On-device AI with MediaPipe and ONNX Runtime
+- Unit and instrumentation testing
+- GitHub Actions and CI/CD
+
+## ☕ Java Backend Development
+
+- Java and Spring Boot
+- REST APIs and Spring Security
+- PostgreSQL and MySQL
+- JWT authentication
+- Transaction management and idempotency
+- Redis and event-driven systems
+- Integration testing and Testcontainers
+
+## 🚀 Featured Projects
+
+### Fitto
+AI-powered healthy lifestyle and social Android application developed
+with Kotlin, Firebase, Room and GitHub Actions.
+
+### Nomi
+Privacy-focused Android smart gallery that performs face detection,
+embedding generation and person clustering directly on the device.
+
+### PayFlow
+Spring Boot financial system simulation featuring atomic transfers,
+idempotency, optimistic locking and double-entry ledger records.
+
+### Hotel Reservation Platform
+Spring Boot reservation and payment platform with JWT security,
+Stripe integration, caching and event-driven messaging.
+
+## 🎓 About Me
+
+- B.Sc. in Computer Engineering
+- Graduated 2nd in the department
+- GPA: 3.61 / 4.00
+- Based in Kocaeli, Türkiye
+- Open to Android, Flutter and Java Backend opportunities
+
+## 📫 Contact
+
+- LinkedIn: [Add your LinkedIn URL]
+- Email: duykunursena@gmail.com
