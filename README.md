@@ -55,5 +55,5 @@ Stripe integration, caching and event-driven messaging.
 
 ## 📫 Contact
 
-- LinkedIn: [Add your LinkedIn URL]
+- LinkedIn: https://www.linkedin.com/in/nursena-duyku-9a043b21a/
 - Email: duykunursena@gmail.com
